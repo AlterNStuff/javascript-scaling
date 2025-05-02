@@ -5,21 +5,18 @@ It took me a while to understand so I'm posting it on github for anyone that mig
 ### How it works:
   I used window.innerHeight and window.innerWidth to get viewport size then did a bit of math:
   
-  y = height
-  scaley = box height
-  posy = box y position
-  scaley = 300px
+  `y = height`
+  `scaley = box height`
+  `posy = box y position`
+  ``scaley = 300px``
   
-  posy = (y/2) - (scaley/2) to get the position 
+  `posy = (y/2) - (scaley/2)` to get the position 
   
   and then
   
-  
-  `if(y<305){`
-  
+  if(y<305){
     scaley = y - 10;
-    
-  `}`
+  }
 
   to modify the size of the cube if the screen got to small
 
