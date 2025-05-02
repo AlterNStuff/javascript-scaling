@@ -14,9 +14,9 @@ It took me a while to understand so I'm posting it on github for anyone that mig
   
   and then
   
-  if(y<305){
+  `if(y<305){
     scaley = y - 10;
-  }
+  }`
 
   to get modify the scale of the cube if the screen got to small
 
