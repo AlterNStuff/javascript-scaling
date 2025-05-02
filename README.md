@@ -20,7 +20,7 @@ It took me a while to understand so I'm posting it on github for anyone that mig
   }
   `
 
-  to get modify the scale of the cube if the screen got to small
+  to modify the size of the cube if the screen got to small
 
 ### Notable Mentions:
 My friend PolyCat, he does way cooler stuff so check him out https://github.com/PolyCatDev
